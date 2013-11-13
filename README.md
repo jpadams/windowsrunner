@@ -49,7 +49,7 @@ pithy to fit well in the PE LM console listing.
 Got inspiration for this from 'windowsrun' mco agent by Andreas Zuber <zuber@puzzle.ch>.
 Unfortunately that code didn't work at all for me and had to do a complete rewrite. 
 
-Thanks to everyone who pitched in, including the omnipresent James Sweeny.
+Thanks to everyone who pitched in, including Spencer Seebald and the omnipresent James Sweeny.
 
 Special thanks for the hours spent by Pieter Loubser, Richard Clamp, and Josh Cooper.
 
