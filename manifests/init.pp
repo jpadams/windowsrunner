@@ -1,3 +1,5 @@
+# Simply installs the Mcollective agent on the master and nodes.
+
 class windowsrunner {
 
   # For the Puppet Enterprise Master server
