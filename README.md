@@ -35,14 +35,14 @@ This is NOT an agent that you will want to use in production since you can
 execute any arbitrary command on a Windows machine. 
 
 That being said, it's a great example of what's possible: the ability to run commands
-on hundreds or thousands of nodes in parallel.
+on hundreds or thousands of Widows nodes in parallel.
 
 You can easily use this module to create your own module which executes a single action
 by hardcoding the 'command' in the windowsrunner.rb file and removing the 'input' stanza from the windowsrunner.ddl.
 
 You could also have a list of approved actions and validate input for a match before execution.
 
-The name of this agent is really longs as well, so you'll probably want something more
+The name of this agent is really long as well, so you'll probably want something more
 pithy to fit well in the PE LM console listing.
 
 ### Credits
