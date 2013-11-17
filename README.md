@@ -28,7 +28,7 @@ Commandline usage:
 Live Management usage:
 
     Put your command (e.g. mkdir c:\foobar) in the 'Command' text field and press the red 'Run' button.
-Your command will automatically be prefixed with ["cmd /c"](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/cmd.mspx?mfr=true) 
+Your command will automatically be prefixed with ["cmd /c"](http://technet.microsoft.com/en-us/library/cc771320.aspx) 
 
 ### Notes
 This is NOT an agent that you will want to use in production since you can 
