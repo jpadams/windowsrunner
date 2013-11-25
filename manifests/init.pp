@@ -4,7 +4,7 @@ class windowsrunner {
 
   if $::kernel == 'windows' {
 
-    file { 'C:\ProgramData\PuppetLabs\mcollective\etc\plugins\mcollective\agent\windowsrunner.ddl':
+    file { 'C:/ProgramData/PuppetLabs/mcollective/etc/plugins/mcollective/agent/windowsrunner.ddl':
       ensure => file,
       owner  => Administrator,
       group  => Administrators,
@@ -13,7 +13,7 @@ class windowsrunner {
       notify => Service['pe-mcollective'],
     }
 
-    file { 'C:\ProgramData\PuppetLabs\mcollective\etc\plugins\mcollective\agent\windowsrunner.rb':
+    file { 'C:/ProgramData/PuppetLabs/mcollective/etc/plugins/mcollective/agent/windowsrunner.rb':
       ensure => file,
       owner  => Administrator,
       group  => Administrators,
